@@ -1,0 +1,31 @@
+*{
+    width:90%;
+    text-align:center;
+    padding-left:5%;
+    padding-right:5%;
+}
+.info{
+    display:inline-block;
+}
+.name{
+    text-align:left;
+}
+.date{
+ text-align:right;
+}
+
+.box1{
+    background-color:beige;
+    height:auto;
+    padding-bottom:30px;
+}
+.box2{
+    background-color:beige;
+    height:auto;
+    padding-bottom:30px;
+}
+footer{
+    height:20px;
+    padding-top: 10px;
+    text-align:right;
+}
